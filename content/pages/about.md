@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/akshar.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am a software engineer working at Zillow Group. I have been island hopping on kayak in Portland, Maine. Talk to me about science!
 
 ![Me at GraphQL summit!](/media/akshar.jpg)
 
