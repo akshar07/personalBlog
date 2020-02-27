@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: akshar07/personalBlog
+  repo: akshar07/personalBlog
 
 media_folder: "static/media"
 public_folder: "/media"
