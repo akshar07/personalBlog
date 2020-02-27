@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://avocadolatte.com/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Thoughts and Ideas by Akshar Takle',
+  subtitle: 'My Blogs',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Akshar Takle',
+    photo: '/akshar.jpg',
+    bio: 'A Software Engineer. Tech Enthusiast. Information Sponge',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'takleakshar@gmail.com',
+      facebook: 'akshar.takle',
+      twitter: 'AksharVT',
+      github: 'akshar07',
       rss: '',
+      telegram: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'akshartakle',
+      instagram: 'akshar92',
       line: '',
       gitlab: '',
       weibo: '',
