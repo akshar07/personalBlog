@@ -12,7 +12,7 @@ tags:
   - Genetics
   - Science
   - DNA
-featuredimage: "/media/Frame-1.png"
+featuredimage: /media/dna.png
 ---
 
 
