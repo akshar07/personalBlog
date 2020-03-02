@@ -26,7 +26,6 @@ collections:
       - {label: "Category", name: "category", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Featured Image", name: "thumbnail", widget: image}
 
   - name: "pages"
     label: "Pages"
