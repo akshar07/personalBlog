@@ -1,17 +1,17 @@
 ---
 template: post
-title: How and why you define the health of your future generations!
-slug: How-and-why-you-define-the-health-of-your-future-generations
+title: "How and why you define the health of your future generations!"
+slug: "How-and-why-you-define-the-health-of-your-future-generations"
 draft: false
 date: 2020-03-02T04:01:52.327Z
 description: >-
-  Most of us tend to think that the consequences of one's lifestyle will affect
-  only his/her life. It makes sense until we come to know what we don't know!
-category: 'Science '
+  "Most of us tend to think that the consequences of one's lifestyle will affect
+  only his/her life. It makes sense until we come to know what we don't know!"
+category: "Science"
 tags:
-  - Genetics
-  - Science
-  - DNA
+  - "Genetics"
+  - "Science"
+  - "DNA"
 socialImage: "/media/epi.png"
 ---
 
