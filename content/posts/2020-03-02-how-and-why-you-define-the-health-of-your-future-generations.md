@@ -1,7 +1,7 @@
 ---
 template: post
 title: How and why you define the health of your future generations!
-slug: How and why you define the health of your future generations!
+slug: How-and-why-you-define-the-health-of-your-future-generations!
 draft: false
 date: 2020-03-02T04:01:52.327Z
 description: >-
