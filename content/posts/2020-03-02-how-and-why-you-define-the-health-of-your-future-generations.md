@@ -12,6 +12,7 @@ tags:
   - Genetics
   - Science
   - DNA
+  socialImage: "/media/Frame-1.png"
 ---
 
 
