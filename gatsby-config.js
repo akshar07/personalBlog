@@ -39,6 +39,12 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: 'https://avocadolatte.us19.list-manage.com/subscribe/post?u=8bc9b90826690b8bb7e45aee2&amp;id=dcd0df1d87',
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/media`,
