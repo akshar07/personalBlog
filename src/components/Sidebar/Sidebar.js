@@ -1,9 +1,10 @@
 // @flow strict
-import React from 'react';
+import React, { useState } from 'react';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
+import SubscribeForm from './Subscribe';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
 
@@ -21,6 +22,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
+       <SubscribeForm />
       </div>
     </div>
   );
