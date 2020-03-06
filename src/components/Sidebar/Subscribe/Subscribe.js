@@ -42,7 +42,7 @@ const SubscribeForm = () => {
     }
     return(
         <div className={styles['Sidebar-subscribe']}>
-            <p> <b>Subscribe to stay updated on lates posts</b></p>
+            <p> <b>Subscribe to stay updated on latest posts</b></p>
             <input 
                 type="text" 
                 name="email" 
