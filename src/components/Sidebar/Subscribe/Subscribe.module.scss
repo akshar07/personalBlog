@@ -1,0 +1,29 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.Sidebar-subscribe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+
+    .Sidebar-subscribe-response {
+        color: #ffb326;
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .Sidebar-subscribe-input {
+        height: 25px; 
+        margin-bottom: 10px;
+        padding: 5px;
+        border: 1px solid #ccc;
+    }
+    
+    button {
+        height: 30px;
+        border: 1px solid #ccc;
+    }
+}
+
+
