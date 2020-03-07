@@ -28,7 +28,7 @@ What you eat, where and how you live, how often you exercise — all of these en
 
 ![](https://cdn-images-1.medium.com/max/1600/1*jlUnsdSElNqjLCshikNvdQ.png)
 
-Yes, Epigenetics. But before we understand what is epigenetics and how does it do all that magic, we need to understand genetics first.
+Yes, Epigenetics. But before we understand what epigenetics is and how does it do all that magic, we need to understand genetics first.
 
 **Genetics 101:**
 
