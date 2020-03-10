@@ -5,8 +5,7 @@ slug: How-and-why-you-define-the-health-of-your-future-generations-2
 draft: false
 date: 2020-03-10T19:11:43.088Z
 description: >-
-  As described in the book Epigenetics Revolution by Nessa Carey, Imagine the
-  human lifespan as a long movie.
+  Imagine the human lifespan as a long movie.
 
   In this movie, cells would be the actors and actresses — essential units in
   the movie. DNA would be the script — that instructs actors and actresses what
