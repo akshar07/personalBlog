@@ -11,8 +11,7 @@ description: >-
   In this movie, cells would be the actors and actresses — essential units in
   the movie. DNA would be the script — that instructs actors and actresses what
   they need to do. A block of DNA would be the actions in the script. Genetics
-  would be the screenplay and the whole movie would be **directed by**
-  **epigenetics.**
+  would be the screenplay and the whole movie would be directed by epigenetics.
 category: Science
 tags:
   - Genetics
