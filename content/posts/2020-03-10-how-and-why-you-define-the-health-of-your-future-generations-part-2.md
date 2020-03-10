@@ -17,7 +17,7 @@ tags:
   - Science
   - DNA
 ---
-This is the second post in the series of epigenetics. If you are new here, start [here](https://avocadolatte.com/posts/How-and-why-you-define-the-health-of-your-future-generations)
+This is the second post in the series of epigenetics. If you are new, start [here](https://avocadolatte.com/posts/How-and-why-you-define-the-health-of-your-future-generations)
 
 Last time we learned what epigenetics is and how it changes our gene expression. We looked at how histone modifications occur that make some part of our gene unreadable to the cell thus turning the gene on or off.
 
@@ -54,8 +54,6 @@ Epigenetics is everywhere! The environment around us shapes our health.
 It is now widely known that our genetic code carries traces of past events, meaning that trauma, poor diet or poor lifestyle choices, financial status, drug abuse, disease exposure, can leave a beneficial or harmful legacy for our children and grandchildren.
 
 This means your genes are not just your destiny but they are also the destiny of your future generations. To conclude, you have this opportunity to literally change how your children develops, which brings us to the question - How do you plan to live your life?
-
-
 
 **Sources, related readings, and videos:**
 
