@@ -1,7 +1,7 @@
 ---
 template: post
 title: Interviewing for Frontend Engineering
-slug: FE interviews
+slug: FE-interviews
 draft: false
 date: 2020-02-27T00:41:07.692Z
 description: Many times we just want the job. But its important in the long term to be intentional about what kind of job you want. Also, it will be easier to rule out the companies where you don't want to work.

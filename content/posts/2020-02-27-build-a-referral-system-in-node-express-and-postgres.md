@@ -1,7 +1,7 @@
 ---
 template: post
 title: Build a Referral System in Node-Express and Postgres
-slug: Build a Referral System in Node-Express and Postgres
+slug: Build-a-Referral-System-in-Node-Express-and-Postgres
 draft: false
 date: 2020-02-27T01:33:05.279Z
 description: >-
