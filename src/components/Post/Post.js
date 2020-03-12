@@ -13,17 +13,19 @@ type Props = {
   post: Node
 };
 
-const Post = ({ post }: Props) => {
+const Post = ({ post, url }: Props) => {
   const { html } = post;
   const { tagSlugs, slug } = post.fields;
   const { tags, title, date } = post.frontmatter;
+  console.log({slug, url})
+  const shareUrl = `${url}${slug.substring(1)}`;
 
   return (
     <div className={styles['post']}>
       <Link className={styles['post__home-button']} to="/">All Articles</Link>
 
       <div className={styles['post__content']}>
-        <Content body={html} title={title} />
+        <Content body={html} title={title} url={shareUrl} />
       </div>
 
       <div className={styles['post__footer']}>
