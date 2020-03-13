@@ -31,7 +31,7 @@ const Post = ({ post, url }: Props) => {
       <div className={styles['post__footer']}>
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
-        <Author />
+        <Author title={shareUrl} />
       </div>
 
       <div className={styles['post__comments']}>

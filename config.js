@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-160668237-1',
   useKatex: false,
   menu: [
     {
@@ -16,8 +16,8 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Start here',
+      path: '/pages/start-here'
     },
     {
       label: 'Contact me',

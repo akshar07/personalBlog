@@ -3,12 +3,14 @@ import React from 'react';
 import { getContactHref } from '../../../utils';
 import styles from './Author.module.scss';
 import { useSiteMetadata } from '../../../hooks';
+import Subscribe from '../../Subscribe';
 
-const Author = () => {
+const Author = (title) => {
   const { author } = useSiteMetadata();
 
   return (
     <div className={styles['author']}>
+      <Subscribe title={title} />
       <p className={styles['author__bio']}>
         {author.bio}
         <a

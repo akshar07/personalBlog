@@ -1,5 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 import styles from './Page.module.scss';
+import Subscribe from '../Subscribe';
 
 type Props = {
   title?: string,
@@ -20,6 +21,7 @@ const Page = ({ title, children }: Props) => {
         <div className={styles['page__body']}>
           {children}
         </div>
+        <Subscribe title={title} />
       </div>
     </div>
   );

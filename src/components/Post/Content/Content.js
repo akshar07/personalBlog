@@ -55,7 +55,6 @@ const Content = ({ body, title, url }: Props) => (
             </WhatsappShareButton>
        </p>
     </div>
-    
   </div>
 );
 
