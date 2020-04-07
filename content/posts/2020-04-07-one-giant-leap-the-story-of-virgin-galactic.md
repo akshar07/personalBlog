@@ -45,6 +45,8 @@ This is a reusable spacecraft that can carry up to 8 people including 2 pilots i
 
 The most ambitious and striking feature of SpaceShipTwo is its ability to change the shape mid-flight. This ensures a repeatable and safe re-entry in the earth's atmosphere. The spacecraft rotates its wing and tail booms in the vertical direction using the aerodynamic forces to its advantage to gain stability and the required rate of deceleration. You can imagine the shape as that of a badminton birdie. It is absolutely stunning to watch it:
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/yOVh19cOpOc/0.jpg)](http://www.youtube.com/watch?v=yOVh19cOpOc "Elevating Unity - Episode 3: First Feather")
+
 #### **So is it for us?**
 
 Yes! You can reserve your seat for the space flight by paying a fully refundable registration fee of US$1,000. The amount is fully refundable and is used as a deposit for the future spaceflight. But note that by paying $1000 you are not making a reservation of the space flight but it will put you in the priority group for an offer of a firm reservation.
@@ -53,4 +55,4 @@ Yes! You can reserve your seat for the space flight by paying a fully refundable
 
 They say that there will be a range of prices (maybe similar to airline tickets — economy, premium, and business class) but they will be charging more than t US$250,000 for the people who signed up early.
 
-![Wolf of the wall street](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Mind Blown](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
