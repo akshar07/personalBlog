@@ -49,7 +49,7 @@ The most ambitious and striking feature of SpaceShipTwo is its ability to change
 
 #### **So is it for us?**
 
-Yes! You can reserve your seat for the space flight by paying a fully refundable registration fee of US $1,000. The amount is fully refundable and is used as a deposit for the future spaceflight. But note that by paying $1,000 you are not making a reservation of the space flight but it will put you in the priority group for an offer of a firm reservation.
+Yes! You can reserve your seat for the space flight by paying a fully refundable registration fee of US 1,000 dollars. The amount is fully refundable and is used as a deposit for the future spaceflight. But note that by paying 1,000 dollars you are not making a reservation of the space flight but it will put you in the priority group for an offer of a firm reservation.
 
 #### How much will the space flight actually cost?
 
