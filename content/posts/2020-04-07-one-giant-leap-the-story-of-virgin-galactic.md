@@ -13,8 +13,6 @@ category: Space
 tags:
   - Space
 ---
-
-
 ![](https://cdn-images-1.medium.com/max/1600/1*6WMceD2PpBPn39PjXIp5ew.jpeg)
 
 Space. We all have wondered what's out there? How does it look like? How does zero gravity feel like? How do we get there?
